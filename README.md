@@ -1,0 +1,1 @@
+Exercises were straightforward .. except for the caesarCipher. That went wonky as I found out that Javascript modulo isn't actual mathematical modulo, and so negative shifts of any kind were wrecking me. There's an unholy kludge dredged up from the Net in there to handle negative shift numbers now, but it still feels rickety to me.
